@@ -93,6 +93,6 @@ El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se 
 
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
-<p>Página generada el 09 de agosto del 2023 por Jhozmer A. Ramírez P. Versión 1.1, Mérida-Venezuela.</p>
+<p>Página generada el 24 de octubre del 2023 por Jhozmer A. Ramírez P. Versión 1.0, Mérida-Venezuela.</p>
  
 
