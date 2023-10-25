@@ -35,7 +35,7 @@ Hola, soy Jhozmer Ramírez! 👋, les presento el desafío 1 (Robot Trading) pro
 
 ## Descripción
 
-<span>_En este proyecto contiene un código en Python que lleva por nombre "Robot Trading", que es capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real, lo que implica tomar datos de una de las páginas web más comunes de visualización de seguimiento de precios para criptoactivos.
+<span>_Este proyecto contiene un código en Python que lleva por nombre "Robot Trading", que es capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real, lo que implica tomar datos de una de las páginas web más comunes de visualización de seguimiento de precios para criptoactivos.
 
 Para lograr este cometido es necesario entrar a una API que proporcione datos históricos de Bitcoins en formato JSON. Una vez en la página se realiza "Web Scraping" en un site de noticias para obtener el precio actual y algunos indicadores de tendencia del Bitcoin. Con los datos históricos se procede a cargarlos en DataFrame de Pandas para poder manipularlos y analizarlos, de esa manera identificar y eliminar los "outliers", además de tratar cualquier valor "nulo" o "duplicado" en la base. Finalmente con la base limpia, se calcula el precio promedio del Bitcoin.
 
