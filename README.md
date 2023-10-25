@@ -53,7 +53,7 @@ Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de 
 
 ## Vídeo
 
-https://github.com/Alejarp78/Alejarp78.github.io/assets/88687677/53f319f5-acb3-4129-abfa-47c463a6def4
+<p>Preparando el vídeo</p>
 
 ## Pre-requisitos
 
