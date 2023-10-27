@@ -95,6 +95,10 @@ Versión Final 1.0
 
 El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se pueden identificar los cuartiles, apoyados con colores, de la misma manera que las gráficas "Plot" están diferenciadas con varios colores para los valores: original (tal como se encuantra en la página de criptoactivos), con datos tratados o limpios (corrección de la gráfica eliminando valores nulos y duplicados). Posee una línea de tendencia, que permite observar su inclinación en función a la horizontal, para entender la velocidad de inversión según el volúmen.
 
+##Insignia
+
+![Insignia desafío 1 _ Robot Trading _ Boot Camp _ Data Science _ 27_10_2023](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/46c4701d-08ad-4423-b505-665eec14f5b2)
+
 ## Autor
 - | [Jhozmer Ramírez (@Alejarp78)] |
 - [<img src="https://avatars.githubusercontent.com/u/88687677?s=400&u=c3e15a75772d3ffed5d55c17123fae2e51ce81a4&v=4" width=115><br><sub>Jhozmer Ramírez</sub>](https://github.com/Alejarp78) |
