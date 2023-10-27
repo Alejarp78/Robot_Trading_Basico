@@ -53,7 +53,7 @@ Imagen del resultado de las gráficos del Histórico del BTC ($)
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
-![Uploading Histórico_datos_BTC_tratado.png…]()
+![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/44059e5d-4b9f-49dd-b6d7-bb5af518bae0)
 
 Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de las gráficas obtenidas.
 
