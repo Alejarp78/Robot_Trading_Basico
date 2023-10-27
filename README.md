@@ -53,7 +53,8 @@ Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de 
 
 ## Vídeo
 
-<p>Preparando el vídeo</p>
+<p>Robot Trading MP4</p>
+https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
 
 ## Pre-requisitos
 
