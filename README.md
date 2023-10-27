@@ -70,8 +70,8 @@ https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
 
 ## Pre-requisitos
 
-Python 3.0 o superior
-Datos en este cuaderno (Notebook Colab Jupyter)
+- Python 3.0 o superior
+- Datos en este cuaderno (Notebook Colab Jupyter)
 
 ## Construido con
 
