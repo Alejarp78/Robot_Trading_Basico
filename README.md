@@ -59,7 +59,7 @@ Imagen del DataFrame de los datos tratados:
 
 ![DataFrame corregido](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/7d0441ef-097c-4e91-88c3-b82b9a0f17a7)
 
-Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de las gráficas obtenidas.
+Se dejan en este repositorio imagenes del DataFrame corregido y de cada una de las gráficas obtenidas.
 
 </span>
 
@@ -69,8 +69,9 @@ Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de 
 https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
 
 ## Pre-requisitos
-_Python 3.0 o superior
-_Por los momentos posee estilos compatible en su mayor parte sólo con el navegador Chrome.
+
+Python 3.0 o superior
+Datos en este cuaderno (Notebook Colab Jupyter)
 
 ## Construido con
 
