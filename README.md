@@ -97,7 +97,7 @@ El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se 
 
 ##Insignia
 
-![Insignia desafío 1 _ Robot Trading _ Boot Camp _ Data Science _ 27_10_2023](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/46c4701d-08ad-4423-b505-665eec14f5b2)
+<h1 align="center"><img src="https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/413ddef4-a7b3-44c6-946f-25a6961ebb5a" alt="Canuto_Desarrollo_Web" width="220px" height="220px" align="center" border="2px solid blue">
 
 ## Autor
 - | [Jhozmer Ramírez (@Alejarp78)] |
