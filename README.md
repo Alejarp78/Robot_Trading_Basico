@@ -69,7 +69,7 @@ Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de 
 https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
 
 ## Pre-requisitos
-
+_Python 3.0 o superior
 _Por los momentos posee estilos compatible en su mayor parte sólo con el navegador Chrome.
 
 ## Construido con
