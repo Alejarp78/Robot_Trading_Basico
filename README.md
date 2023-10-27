@@ -47,13 +47,26 @@ Finalmente, con el algoritmo de decisión, se automatizó el proceso. Utilizando
 
 Este es un proyecto básico pero ambicioso que requiere una cantidad importante de tiempo y esfuerzo, así como una comprensión básica de Python y lo más importante, mucha creatividad. 
 
+Imagen del resultado de las gráficos del Histórico del BTC ($)
+
+![Histórico_datos_BTC_original_tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/bbbb2653-da0e-49b7-a585-5543cf7f8dde)
+
+Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
+
+![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/44059e5d-4b9f-49dd-b6d7-bb5af518bae0)
+
+Imagen del DataFrame de los datos tratados:
+
+![DataFrame corregido](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/7d0441ef-097c-4e91-88c3-b82b9a0f17a7)
+
 Se dejan en éste repositorio imagenes del DataFrame corregido y de cada una de las gráficas obtenidas.
 
 </span>
 
 ## Vídeo
 
-<p>Preparando el vídeo</p>
+<p>Robot Trading MP4</p>
+https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
 
 ## Pre-requisitos
 
