@@ -93,7 +93,7 @@ Versión Final 1.0
 
 ## Mejoras
 
-El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se pueden identificar los cuartiles, apoyados con colores, de la misma manera que las gráficas "Plot" están diferenciadas con colores diferentes para los valores: original (tal como se encuantra en la página de criptoactivos), con datos tratados o limpios (corrección de la gráfica eliminando valores nulos y duplicados) y una última gráfica demostrando la corrección con relleno de datos con el método "fill".
+El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se pueden identificar los cuartiles, apoyados con colores, de la misma manera que las gráficas "Plot" están diferenciadas con varios colores para los valores: original (tal como se encuantra en la página de criptoactivos), con datos tratados o limpios (corrección de la gráfica eliminando valores nulos y duplicados). Posee una línea de tendencia, que permite observar su inclinación en función a la horizontal, para entender la velocidad de inversión según el volúmen.
 
 ## Autor
 - | [Jhozmer Ramírez (@Alejarp78)] |
