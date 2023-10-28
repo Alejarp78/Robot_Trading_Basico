@@ -49,15 +49,17 @@ Este es un proyecto básico pero ambicioso que requiere una cantidad importante 
 
 Imagen del resultado de las gráficos del Histórico del BTC ($)
 
-![Histórico_datos_BTC_original_tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/bbbb2653-da0e-49b7-a585-5543cf7f8dde)
+![Histórico_datos_BTC_original_tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/4316c27e-4cf5-481c-bf04-67094ac0f4a8)
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
-![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/44059e5d-4b9f-49dd-b6d7-bb5af518bae0)
+![BoxPlot_Datos_Tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/458cb9df-2a30-463a-a981-e5b94a586367)
+
+![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5)
 
 Imagen del DataFrame de los datos tratados:
 
-![DataFrame corregido](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/7d0441ef-097c-4e91-88c3-b82b9a0f17a7)
+![DataFrame corregido](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/ccef2f66-ea97-4140-a6c1-fe8e49e0c2cc)
 
 Se dejan en este repositorio imagenes del DataFrame corregido y de cada una de las gráficas obtenidas.
 
