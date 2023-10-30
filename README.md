@@ -51,15 +51,13 @@ Imagen del resultado de las gráficos del Histórico del BTC ($)
 
 ![Histórico_datos_BTC_original_tratados_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/93983f67-06f6-4730-9607-679bec38bc7e)
 
-![Histórico_datos_BTC_tratado_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/43e733be-5011-475f-aa5d-379cb14f1a34)
+<h1 align="center"><img src="(https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5" width="550px" height="220px" align="center" border="2px solid blue">
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
 ![BoxPlot_Datos_Tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/458cb9df-2a30-463a-a981-e5b94a586367)
 
 ![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/f80f2162-1e87-4ada-b891-ce295b089816)
-
-<h1 align="center"><img src="(https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5" width="350px" height="220px" align="center" border="2px solid blue">
 
 Imagen del DataFrame de los datos tratados:
 
