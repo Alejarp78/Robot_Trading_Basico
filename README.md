@@ -49,7 +49,9 @@ Este es un proyecto básico pero ambicioso que requiere una cantidad importante 
 
 Imagen del resultado de las gráficos del Histórico del BTC ($)
 
-![Histórico_datos_BTC_original_tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/4316c27e-4cf5-481c-bf04-67094ac0f4a8)
+![Histórico_datos_BTC_original_tratados_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/93983f67-06f6-4730-9607-679bec38bc7e)
+
+![Histórico_datos_BTC_tratado_Comprar_Tendencia](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/9ff177d0-2ebf-4a4e-9a95-f85fabe5f6f3)
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
