@@ -57,7 +57,9 @@ Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histór
 
 ![BoxPlot_Datos_Tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/458cb9df-2a30-463a-a981-e5b94a586367)
 
-<h1 align="center"><img src="(https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5" alt="Canuto_Desarrollo_Web" width="350px" height="220px" align="center" border="2px solid blue">
+![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/f80f2162-1e87-4ada-b891-ce295b089816)
+
+<h1 align="center"><img src="(https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5" width="350px" height="220px" align="center" border="2px solid blue">
 
 Imagen del DataFrame de los datos tratados:
 
