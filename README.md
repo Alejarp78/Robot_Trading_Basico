@@ -51,7 +51,7 @@ Imagen del resultado de las gráficos del Histórico del BTC ($)
 
 ![Histórico_datos_BTC_original_tratados_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/93983f67-06f6-4730-9607-679bec38bc7e)
 
-<h1 align="center"><img src="(https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/2b03c4b4-4fd6-4860-97cd-8e116e16bae5" width="550px" height="220px" align="center" border="2px solid blue">
+![Histórico_datos_BTC_tratado_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/427e6249-ec35-4b55-8973-e3d9f5ad61ab)
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
