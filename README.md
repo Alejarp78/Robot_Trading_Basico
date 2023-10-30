@@ -59,6 +59,8 @@ Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histór
 
 ![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/f80f2162-1e87-4ada-b891-ce295b089816)
 
+![Histórico_datos_BTC_tratado_Comprar_Tendencia](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/e4648d69-5755-4b28-8956-2d63a5af5d7d)
+
 Imagen del DataFrame de los datos tratados:
 
 ![DataFrame corregido](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/ccef2f66-ea97-4140-a6c1-fe8e49e0c2cc)
