@@ -109,6 +109,8 @@ El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se 
 
 ## Insignias
 
+* Alura Latam
+
 <h1 align="center"><img src="https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/413ddef4-a7b3-44c6-946f-25a6961ebb5a" alt="Canuto_Desarrollo_Web" width="220px" height="220px" align="center" border="2px solid blue">
 
 ## Autor
@@ -118,8 +120,9 @@ El Robot Trading posee indicadores de precio promedio y mediana, con Boxplot se 
 ## Gracias por visitar mi repositorio
 
 * Comenta a otros sobre este proyecto 📢
-* Deja tu opinión abajo 🤓.
+* Deja tu opinión abajo 🤓
 * Si te gusta sigue mi cuenta. 📌
+* Califica con una estrella ⭐
 
 ---
 <span> Copyright © 2023 [Alejarp78](https://https://github.com/Alejarp78) </span>
