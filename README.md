@@ -49,17 +49,23 @@ Este es un proyecto básico pero ambicioso que requiere una cantidad importante 
 
 Imagen del resultado de las gráficos del Histórico del BTC ($)
 
-![Histórico_datos_BTC_original_tratados_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/93983f67-06f6-4730-9607-679bec38bc7e)
+![Histórico_datos_BTC_original_tratados_3](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/3e4ebe8e-bf92-4eeb-aa10-4be8b498b039)
+
+![Datos_tratados_con_Mediana_3](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/37303768-6bd4-41d1-9e48-097eccc1c714)
 
 ![Histórico_datos_BTC_tratado_Alta_velocidadAlta](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/427e6249-ec35-4b55-8973-e3d9f5ad61ab)
 
 ![Histórico_datos_BTC_tratado_Comprar_Tendencia](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/e4648d69-5755-4b28-8956-2d63a5af5d7d)
+
+![Histórico_datos_BTC_tratado_3_Vender](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/61f259a7-4289-4188-b5e4-eec8792cbc09)
 
 Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histórico del BTC ($)
 
 ![BoxPlot_Datos_Tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/458cb9df-2a30-463a-a981-e5b94a586367)
 
 ![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/f80f2162-1e87-4ada-b891-ce295b089816)
+
+![Mediana_3](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/3b147643-cd6c-4ad5-8785-5a71244979b4)
 
 Imagen del DataFrame de los datos tratados:
 
