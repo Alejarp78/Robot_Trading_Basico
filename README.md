@@ -65,6 +65,8 @@ Imagen del resultado de las gráficos del BoxPlot los datos tratados del Histór
 
 ![BoxPlot_original](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/3e6418b1-65a4-4b31-a68a-3e320faef415)
 
+![BoxPlot_Outliers](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/23fdd04e-bcc0-4535-a815-f52f4f8156f8)
+
 ![BoxPlot_Datos_Tratados](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/458cb9df-2a30-463a-a981-e5b94a586367)
 
 ![BoxPlot_Robot_Trading](https://github.com/Alejarp78/Robot_Trading_Basico/assets/88687677/f80f2162-1e87-4ada-b891-ce295b089816)
@@ -80,7 +82,7 @@ Se dejan en este repositorio imagenes del DataFrame corregido y de cada una de l
 ## Vídeo
 
 <p>Robot Trading MP4</p>
-https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Robot_Trading_v1.mp4
+https://github.com/Alejarp78/Robot_Trading_Basico/blob/main/Video_Robot_Trading_Corregido1.mp4
 
 ## Pre-requisitos
 
